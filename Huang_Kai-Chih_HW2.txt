@@ -1,1 +1,1 @@
-https://rottenlemon.herokuapp.com/movies
+https://rottenlemon.herokuapp.com/
